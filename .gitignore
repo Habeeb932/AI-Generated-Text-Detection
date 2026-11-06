@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.safetensors
+*.pt
+*.pth
+*.h5
+*.keras
+model/
+models/checkpoint*/
+data/

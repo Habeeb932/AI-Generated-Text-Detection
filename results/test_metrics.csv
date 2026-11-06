@@ -1,0 +1,5 @@
+model,representation,accuracy,macro_f1,roc_auc
+Logistic Regression,TF-IDF word n-grams,0.7369833781,0.7363,0.8216733800
+Linear SVM,TF-IDF word n-grams,0.7545556093,0.7535,0.8413880371
+Kim-style CNN,Embedding + Conv1D + GlobalMaxPooling,0.6746136276,0.6663,0.7742486732
+DistilBERT,distilbert-base-uncased fine-tuned,0.8798619563,0.8785657420,0.9724257778
