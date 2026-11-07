@@ -58,5 +58,3 @@ The results are specific to the selected MAGE splits and label distribution. The
 ## Authors
 Habeeb Nadendla — MTech Data Science
 
-## Citation
-Please cite the MAGE dataset according to its official dataset card and cite the model/architecture papers referenced in the final course report.
