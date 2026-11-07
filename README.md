@@ -58,3 +58,5 @@ The results are specific to the selected MAGE splits and label distribution. The
 ## Authors
 Habeeb Nadendla — MTech Data Science
 
+## Project Video
+[Watch the project presentation on YouTube](https://www.youtube.com/watch?v=GBPyfzBFtMw)
